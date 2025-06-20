@@ -1,4 +1,4 @@
-# Clasificacion-de-fracturas-en-extremidades-superiores-con-aprendizaje-profundo
+# Clasificacion de fracturas en extremidades superiores con aprendizaje profundo
 ## Descripción
 Este proyecto implementa un sistema de clasificación automática de fracturas óseas en radiografías de extremidades superiores utilizando técnicas de aprendizaje profundo. El objetivo es contribuir a la asistencia en el diagnóstico médico mediante modelos de redes neuronales convolucionales (CNN).
 
