@@ -9,7 +9,7 @@ El trabajo se centra en la clasificación de radiografías provenientes del conj
 - EfficientNetV2
 - DenseNet-201
 
-## ⚙Tecnologías
+## Tecnologías
 - Python
 - PyTorch
 - Albumentations
